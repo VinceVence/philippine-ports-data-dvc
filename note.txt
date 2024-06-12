@@ -1,0 +1,8 @@
+Take Note of some that may have duplicate city names. Some cities may have similar names in different regions. Use the following as reference to the actual city mappings:
+
+- San Pascual (Masbate)
+- San Isidro (Northern Samar)
+- San Carlos City (Negros Occidental)
+- San Jose (Occidental Mindoro)
+- Malinao (Bicol)
+- Plaridel (Misamis Occidental)

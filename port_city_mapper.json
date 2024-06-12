@@ -1,0 +1,174 @@
+{
+
+    "PMO NCR SOUTH": {
+        "PIER 3": "CITY OF MANILA",
+        "PIER 5": "CITY OF MANILA",
+        "PIER 15": "CITY OF MANILA",
+        "SOUTH HARBOR (ANCHORAGE)": "CITY OF MANILA",
+        "TERMINAL PASIG": "CITY OF PASIG",
+        "MICT": "CITY OF MANILA"
+    },
+
+    "PMO NCR NORTH": {
+        "BP NORTH HARBOR": "CITY OF MANILA",
+        "VITAS": "CITY OF MANILA"
+    },
+
+    "PMO NORTHERN LUZON": {
+        "CURRIMAO": "CURRIMAO",
+        "OTP BASCO": "BASCO (CAPITAL)",
+        "APARRI": "APARRI",
+        "CLAVERIA": "CLAVERIA",
+        "SALOMAGUE": "CABUGAO",
+        "SUAL": "SUAL"
+    },
+
+    "PMO BATAAN/AURORA": {
+        "LIMAY": "LIMAY",
+        "ORION": "ORION"
+    },
+    
+    "PMO BATANGAS": {
+        "BATANGAS": "BATANGAS CITY (CAPITAL)",
+        "TABLAS": "ROMBLON (CAPITAL)",
+        "ROMBLON": "ROMBLON (CAPITAL)"
+    },
+
+    "PMO BICOL": {
+        "LEGAZPI": "LEGAZPI CITY (CAPITAL)",
+        "BULAN": "BULAN",
+        "MATNOG": "MATNOG",
+        "PASACAO": "PASACAO",
+        "DURAN": "PIO DURAN",
+        "TABACO": "MALINAO",
+        "CATANDUANES": "VIRAC (CAPITAL)"
+    },
+
+    "PMO PALAWAN": {
+        "PUERTO": "PUERTO PINCESA CITY (CAPITAL)",
+        "BROOKE": "BROOKE'S POINT",
+        "CORON": "CORON",
+        "CULION": "CULION",
+        "CUYO": "CUYO",
+        "EL NIDO": "EL NIDO (BACUIT)"
+    },
+
+    "PMO MINDORO": {
+        "CALAPAN": "CITY OF CALAPAN (CAPITAL)",
+        "LUBANG": "LUBANG",
+        "GALERA": "PUERTO GALERA",
+        "ROXAS": "ROXAS",
+        "ABRA": "ABRA DE ILOG",
+        "SAN JOSE": "SAN JOSE"
+    },
+    
+    "PMO MARINDUQUE/QUEZON": {
+        "LUCENA": "LUCENA CITY (CAPITAL)",
+        "BALANACAN": "MOGPOG"
+    },
+
+    "PMO MASBATE": {
+        "MASBATE": "CITY OF MASBATE (CAPITAL)",
+        "PASCUAL": "SAN PASCUAL"
+    },
+
+    "PMO NEGROS ORIENTAL/SIQUIJOR": {
+        "DUMAGUETE": "DUMAGUETE CITY (CAPITAL)",
+        "LARENA": "LARENA",
+        "TANDAYAG": "AMLAN (AYUQUITAN)"
+    },
+
+    "PMO PANAY/GUIMARAS": {
+        "FORT SAN PEDRO": "ILOILO CITY (CAPITAL)",
+        "IRW": "ILOILO CITY (CAPITAL)",
+        "ICPC": "ILOILO CITY (CAPITAL)",
+        "CULASI": "CULASI",
+        "JORDAN": "JORDAN (CAPITAL)",
+        "DUMANGAS": "DUMANGAS",
+        "ESTANCIA": "ESTANCIA"
+    },
+
+    "PMO EASTERN LEYTE/SAMAR": {
+        "TACLOBAN": "TACLOBAN CITY (CAPITAL)",
+        "CALBAYOG": "CALBAYOG CITY",
+        "ISIDRO": "SAN ISIDRO"
+    },
+
+    "PMO NEGROS OCCIDENTAL/BACOLOD/BANAGO/BREDCO": {
+        "BANAGO": "BACOLOD CITY (CAPITAL)",
+        "SAN CARLOS": "SAN CARLOS CITY"
+    },
+
+    "PMO WESTERN LEYTE/BILIRAN": {
+        "ORMOC": "ORMOC CITY",
+        "BAYBAY": "CITY OF BAYBAY",
+        "HILONGOS": "HILONGOS",
+        "NAVAL": "NAVAL (CAPITAL)",
+        "MAASIN": "CITY OF MAASIN (CAPITAL)",
+        "PALOMPON": "PALOMPON"
+    },
+
+    "PMO BOHOL": {
+        "TAGBILARAN": "TAGBILARAN CITY (CAPITAL)",
+        "JAGNA": "JAGNA",
+        "GETAFE": "GETAFE",
+        "LOON": "LOON",
+        "TUBIGON": "TUBIGON",
+        "UBAY": "UBAY"
+    },
+
+    "PMO MISAMIS ORIENTAL/CAGAYAN DE ORO": {
+        "CAGAYAN": "CAGAYAN DE ORO CITY (CAPITAL)",
+        "BALINGOAN": "BALINGOAN",
+        "BENONI": "MAHINOG"
+    },
+
+    "PMO LANAO DEL NORTE/ILIGAN": {
+        "ILIGAN": "ILIGAN CITY"
+    },
+
+    "PMO AGUSAN": {
+        "NASIPIT": "NASIPIT",
+        "MASAO": "BUTUAN CITY (CAPITAL)"
+    },
+
+    "PMO SURIGAO": {
+        "SURIGAO": "SURIGAO CITY (CAPITAL)",
+        "LIPATA": "SURIGAO CITY (CAPITAL)",
+        "DAPA": "DAPA"
+    },
+
+    "PMO MISAMIS OCCIDENTAL/OZAMIZ": {
+        "OZAMIZ": "CITY OF OZAMIZ",
+        "DAIMA": "CITY OF OZAMIZ",
+        "JIMENEZ": "JIMENEZ",
+        "PLARIDEL": "PLARIDEL"
+    },
+
+    "PMO DAVAO": {
+        "DAVAO": "DAVAO CITY",
+        "ILANG": "DAVAO CITY",
+        "LANANG": "DAVAO CITY",
+        "ANA": "DAVAO CITY"
+    },
+
+    "PMO SOCSARGEN": {
+        "GENERAL SANTOS": "GENERAL SANTOS CITY (DADIANGAS)"
+    },
+
+    "PMO ZAMBOANGA DEL NORTE": {
+        "DAPITAN": "DAPITAN CITY",
+        "SINDANGAN": "SINDANGAN"
+    },
+
+    "PMO ZAMBOANGA": 
+    {
+        "ZAMBOANGA": "ZAMBOANGA CITY",
+        "ISABELA": "CITY OF ISABELA",
+        "MARGOSATUBIG": "MARGOSATUBIG",
+        "PAGADIAN": "PAGADIAN CITY (CAPITAL)",
+        "MALANGAS": "MALANGAS",
+        "IPIL": "IPIL (CAPITAL)"
+    }
+
+}
