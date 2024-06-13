@@ -4,7 +4,8 @@ This repository contains data related to Philippine ports, managed using DVC (Da
 
 ## Getting Started
 
-![Diagram]([DIAGRAMS] flowchart\Ports Processing Flowchart.drawio.png)
+![Ports Processing Flowchart](%5BDIAGRAMS%5D%20flowchart/Ports_Processing_Flowchart.drawio.png)
+
 
 ### Prerequisites
 
